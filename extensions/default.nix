@@ -47,4 +47,6 @@
     callPackage ./ssitu-ultimate-sd-upscale { };
   impact-pack =
     callPackage ./impact-pack { };
+  impact-subpack =
+    callPackage ./impact-subpack { };
 }
