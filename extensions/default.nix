@@ -49,4 +49,8 @@
     callPackage ./impact-pack { };
   impact-subpack =
     callPackage ./impact-subpack { };
+  human-parser =
+    callPackage ./human-parser { };
+  segment-anything =
+    callPackage ./segment-anything { };
 }
